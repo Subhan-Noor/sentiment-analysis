@@ -1,0 +1,28 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Model artifacts and large data
+*.joblib
+*.csv
+*.txt
+*.png
+
+# Output files (optional - remove if you want to commit outputs)
+outputs/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+.env/
+.venv/
+
+# VSCode/IDE
+.vscode/
+.idea/
